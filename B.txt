@@ -10,3 +10,8 @@ Academy
 pankaj sir academy
 pankaj sir academy
 
+// new feature created
+class D{
+
+}
+
